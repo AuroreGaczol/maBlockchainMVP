@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maBlockchain_MVP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maBlockchain_MVP</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="maBlockchain_MVP-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="maBlockchain_MVP:war exploded" />
+    </root>
+  </artifact>
+</component>

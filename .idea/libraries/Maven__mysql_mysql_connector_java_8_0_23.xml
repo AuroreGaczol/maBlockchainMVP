@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Maven: mysql:mysql-connector-java:8.0.23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.23-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-basic/application-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-basic/chaincode-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-basic/chaincode-java/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-events/chaincode-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-ledger-queries/application-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-private-data/chaincode-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-private-data/chaincode-java/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/asset-transfer-sbe/chaincode-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/chaincode/fabcar/java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/chaincode/fabcar/java/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/commercial-paper/organization/digibank/application-java/src" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/commercial-paper/organization/digibank/contract-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/commercial-paper/organization/magnetocorp/application-java/src" />
+      <root url="file://$PROJECT_DIR$/src/main/fabric-samples/commercial-paper/organization/magnetocorp/contract-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/java/src/test/java" />
+      <root url="file://$PROJECT_DIR$/java/src/main/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" type="SOURCES" />
+  </library>
+</component>

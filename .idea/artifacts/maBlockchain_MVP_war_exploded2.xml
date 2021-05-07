@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="maBlockchain_MVP:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/maBlockchain_MVP_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="maBlockchain_MVP" />
+          <element id="library" level="application" name="bootstrap" />
+          <element id="library" level="application" name="jquery-1.12.4" />
+          <element id="library" level="application" name="jquery-ui" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql:mysql-connector-java:8.0.23" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="maBlockchain_MVP/web/Web" />
+      <element id="javaee-facet-resources" facet="maBlockchain_MVP/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
