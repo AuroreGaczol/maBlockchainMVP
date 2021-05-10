@@ -12,7 +12,7 @@ import java.io.IOException;
 public class LoginServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String redirect = "/WEB-INF/index.jsp";
+        String redirect = "/internship";
         RequestDispatcher rd = request.getRequestDispatcher(redirect);
         rd.forward(request, response);
     }
@@ -38,7 +38,7 @@ public class LoginServlet extends HttpServlet {
             HttpSession sessionUser = request.getSession(true);
             sessionUser.setAttribute("RegisteredUser", user);
             request.setAttribute("RegisteredUser", user);
-            RequestDispatcher rd = request.getRequestDispatcher("internship.jsp");
+            RequestDispatcher rd = request.getRequestDispatcher("/internship");
             System.out.println("on est dans le try LoginServlet");
             rd.forward(request, response);
 
@@ -52,7 +52,7 @@ public class LoginServlet extends HttpServlet {
             HttpSession sessionUser = request.getSession(true);
             sessionUser.setAttribute("RegisteredUser", user);
             request.setAttribute("RegisteredUser", user);
-            RequestDispatcher rd = request.getRequestDispatcher("internship.jsp");
+            RequestDispatcher rd = request.getRequestDispatcher("/internship");
             rd.forward(request, response);
         }
 

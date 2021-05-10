@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="servlet-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Aurore/apache9/apache-tomcat-9.0.44/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Aurore/apache9/apache-tomcat-9.0.44/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Aurore/apache9/apache-tomcat-9.0.44/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

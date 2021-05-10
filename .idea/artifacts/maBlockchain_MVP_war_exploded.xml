@@ -17,7 +17,6 @@
           <element id="archive" name="maBlockchain_MVP-1.0-SNAPSHOT.jar">
             <element id="module-output" name="maBlockchain_MVP" />
           </element>
-          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.0" />
           <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
           <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.7.0" />
